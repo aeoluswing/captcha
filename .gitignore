@@ -148,4 +148,5 @@ fabric.properties
 .idea/workspace.xml
 .idea/markdown-navigator.xml
 captcha.iml
-/iconset/*
+iconset/*
+!/iconset/.gitignore
